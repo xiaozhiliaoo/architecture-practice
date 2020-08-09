@@ -33,4 +33,25 @@ Coding: Single Level of Abstraction Principle
 
 Spaghetti with meatballs：肉团面  类结构出现大量面条代码，并非真正面向对象系统。
 
+https://en.wikipedia.org/wiki/SOLID
 
+https://en.wikipedia.org/wiki/Package_principles
+
+high-quality designs
+
+high-quality codes(code style)
+
+Smell:
+    implementation smell
+    design smell
+    architecture semll:lack layer
+    
+https://en.wikipedia.org/wiki/Code_refactoring
+
+https://github.com/cleuton/jqana
+
+https://github.com/tushartushar/DesigniteJava
+
+https://spotbugs.github.io/
+
+http://www.tusharma.in/smells/
