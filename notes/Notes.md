@@ -55,3 +55,5 @@ https://github.com/tushartushar/DesigniteJava
 https://spotbugs.github.io/
 
 http://www.tusharma.in/smells/
+
+inFusion(质量模型),jDepend，structure101，
