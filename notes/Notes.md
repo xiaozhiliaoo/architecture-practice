@@ -56,4 +56,22 @@ https://spotbugs.github.io/
 
 http://www.tusharma.in/smells/
 
+https://en.wikipedia.org/wiki/Software_design
+
 inFusion(质量模型),jDepend，structure101，
+
+IPlasma：http://loose.cs.upt.ro/index.php?n=Main.IPlasma
+
+http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
+
+https://en.wikipedia.org/wiki/Software_metric
+
+https://en.wikipedia.org/wiki/Software_package_metrics
+
+https://en.wikipedia.org/wiki/Software_quality
+
+https://en.wikipedia.org/wiki/Programming_complexity
+
+https://en.wikipedia.org/wiki/Cyclomatic_complexity
+
+A.Philosophy.of.Software.Design 《软件设计的哲学》中文翻译 http://gdut_yy.gitee.io/doc-aposd/
