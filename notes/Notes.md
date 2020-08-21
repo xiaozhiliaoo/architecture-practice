@@ -74,4 +74,9 @@ https://en.wikipedia.org/wiki/Programming_complexity
 
 https://en.wikipedia.org/wiki/Cyclomatic_complexity
 
+https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh
 A.Philosophy.of.Software.Design 《软件设计的哲学》中文翻译 http://gdut_yy.gitee.io/doc-aposd/
+
+https://en.wikipedia.org/wiki/David_Parnas
+
+
