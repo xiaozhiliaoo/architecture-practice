@@ -79,4 +79,11 @@ A.Philosophy.of.Software.Design 《软件设计的哲学》中文翻译 http://g
 
 https://en.wikipedia.org/wiki/David_Parnas
 
+书籍：《代码质量》，《代码阅读》 作者： Diomidis Spinellis https://www.spinellis.gr/index.html.var
+
+https://en.wikipedia.org/wiki/Literate_programming
+https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%A6%E7%BC%96%E7%A8%8B
+http://www.literateprogramming.com/
+
+
 
