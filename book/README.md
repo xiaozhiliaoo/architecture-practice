@@ -1,7 +1,8 @@
 # 书籍
 
-
 ## 中文
+
+分布式架构原理与实践
 
 软件架构：架构模式、特征及实践指南
 
@@ -21,7 +22,7 @@
 
 架构之美
 
-软件体系架构：原理方法与实践	
+软件体系架构：原理方法与实践
 
 架构真意 : 企业级应用架构设计方法论与实践
 
@@ -37,12 +38,26 @@
 
 架构设计2.0：大型分布式系统架构方法论与实践-余春龙
 
+大型网站系统与Java中间件实践
 
+深入浅出大型网站架构设计
+
+大型网站性能优化实践
+
+分布式服务架构 原理、设计与实战
+
+架构解密从分布式到微服务
+
+亿级流量网站架构核心技术
 
 ## 国外
+
+AOSA BOOK
 
 Flow Architectures: The Future of Streaming and Event-Driven Integration
 
 Fundamentals of Software Architecture: An Engineering Approach
 
 A Philosophy of Software Design
+
+UncleBob
