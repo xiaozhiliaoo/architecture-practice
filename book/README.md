@@ -61,3 +61,19 @@ Fundamentals of Software Architecture: An Engineering Approach
 A Philosophy of Software Design
 
 UncleBob
+
+Reactive Microsystems
+
+Designing Reactive System
+
+Fast Data Architectures for Streaming Application
+
+Developing Reactive Microservice
+
+Reactive Microservice Architectures
+
+Fast Data and The New Enterprise Data Architecture
+
+Designing Event-Driven Systems
+
+Software Architecture Patterns Understanding Common Architecture Patterns and When to Use Them
