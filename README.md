@@ -26,6 +26,10 @@
 
 [百科](./wikipedia)
 
+## Slides
+
+[Slides](./slides)
+
 ## Other
 
 [模式](https://github.com/xiaozhiliaoo/pattern-practice)
